@@ -1,0 +1,1 @@
+# MinePotato.crx
